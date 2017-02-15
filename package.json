@@ -1,0 +1,26 @@
+{
+  "name": "express-redirect-with-flash",
+  "version": "0.0.1",
+  "description": "An express middleware allowing to include flash variables with your redirect",
+  "main": "lib/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briq/express-redirect-with-flash.git"
+  },
+  "keywords": [
+    "express",
+    "connect",
+    "middleware",
+    "redirect",
+    "flash"
+  ],
+  "author": "Laurent VB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briq/express-redirect-with-flash/issues"
+  },
+  "homepage": "https://github.com/briq/express-redirect-with-flash#readme"
+}
